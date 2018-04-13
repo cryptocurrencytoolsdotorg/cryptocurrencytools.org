@@ -1,0 +1,8 @@
+cryptocurrencytools.org
+Open Source JavaScript Client-Side toolset for multisig address generation and other things.
+
+Donation Addresses:
+  Bitcoin: 3FoAsyP4xugwDRten5K2twCby73ykTwuHM or bc1q0axyvcjy5ey57jcug98pd6cf8n69mv5mk82783
+  Monero:  85ZwzZfb6AaJ7RSwAtNWi95SamfP7zGyKBi3paNnYyLTgeySqu8vBsMLjHnd1mBiHNa872gYCR5AY1qnuoaSYS9u7daTiR4
+
+2018-04-13: First version

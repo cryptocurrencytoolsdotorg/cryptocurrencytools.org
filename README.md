@@ -9,11 +9,8 @@ JavaScript/CSS/Images. Just download the HTML file and run it locally.
 No Internet connection is needed. The code is published on GitHub.
 
 Please send DONATIONS for this project to ony of the following addresses:
-Currency | Address
--------- | -------
-Bitcoin | 3FoAsyP4xugwDRten5K2twCby73ykTwuHM 
-        | bc1q0axyvcjy5ey57jcug98pd6cf8n69mv5mk82783
-Monero  | 85ZwzZfb6AaJ7RSwAtNWi95SamfP7zGyKBi3paNnYyLTgeySqu8vBsMLjHnd1mBiHNa872gYCR5AY1qnuoaSYS9u7daTiR4
+* Bitcoin: 3FoAsyP4xugwDRten5K2twCby73ykTwuHM or bc1q0axyvcjy5ey57jcug98pd6cf8n69mv5mk82783
+* Monero: 85ZwzZfb6AaJ7RSwAtNWi95SamfP7zGyKBi3paNnYyLTgeySqu8vBsMLjHnd1mBiHNa872gYCR5AY1qnuoaSYS9u7daTiR4
 
 cryptocurrencytools.org is available under The MIT License (MIT)
 Copyright (c) 2018 cryptocurrencytools.org
@@ -42,13 +39,14 @@ Copyright (c) 2018 cryptocurrencytools.org
   `gpg --verify cryptocurrencytools.zip.sig cryptocurrencytools.zip`  
 * Run locally (without Internet connection)
 
-##Credits:
+## Credits:
 * CSS Normalize: https://necolas.github.io/normalize.css/
 * Loading spinner: http://tobiasahlin.com/spinkit/
 * https://github.com/luigi1111/xmr.llcoins.net
 * BitcoinJS: https://github.com/bitcoinjs/bitcoinjs-lib
 
-##PGP Key:
+## PGP Key:
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFrQdAUBEADNatkmBKrJEeBdd1JlMxxwKwpnRda8jdCdvHbMZFHHjVzEeqXu
@@ -100,3 +98,4 @@ no/CZFnpn2+hjPrUsEBIlUYWn0z0dl8Z+H3/rc4fKMzeUi2oAHKnkGRHzyzEJEIK
 sBkWLUCse80HcKQYNKnt1qeFuZE=
 =PZZp
 -----END PGP PUBLIC KEY BLOCK-----
+```

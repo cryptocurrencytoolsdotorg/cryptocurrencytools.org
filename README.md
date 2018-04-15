@@ -10,7 +10,7 @@ No Internet connection is needed. The code is published on GitHub.
 
 Please send DONATIONS for this project to ony of the following addresses:
 * Bitcoin: 3FoAsyP4xugwDRten5K2twCby73ykTwuHM or bc1q0axyvcjy5ey57jcug98pd6cf8n69mv5mk82783
-* Monero: 85ZwzZfb6AaJ7RSwAtNWi95SamfP7zGyKBi3paNnYyLTgeySqu8vBsMLjHnd1mBiHNa872gYCR5AY1qnuoaSYS9u7daTiR4
+* Monero: 48kTWUFTXPk9ELgJizvGciEvRZeWogEU5eZSZudcRcL3VagcZBg4zRLhSAs1VYFAMVUx1BwT14sd7LVrfygVG6CuA4z23Gk
 
 cryptocurrencytools.org is available under The MIT License (MIT)
 Copyright (c) 2018 cryptocurrencytools.org
@@ -40,10 +40,15 @@ Copyright (c) 2018 cryptocurrencytools.org
 * Run locally (without Internet connection)
 
 ## Credits:
-* CSS Normalize: https://necolas.github.io/normalize.css/
-* Loading spinner: http://tobiasahlin.com/spinkit/
-* https://github.com/luigi1111/xmr.llcoins.net
-* BitcoinJS: https://github.com/bitcoinjs/bitcoinjs-lib
+* jQuery: v3.3.1: https://jquery.com/
+* BigInteger: v0.9.1: http://silentmatt.com/biginteger/
+* js-sha3: v0.7.0: https://github.com/emn178/js-sha3/
+* BitcoinJS: v3.3.2: https://github.com/bitcoinjs/bitcoinjs-lib
+* CSS Normalize: v8.0.0: https://necolas.github.io/normalize.css/
+* Loading spinner: v1.2.5: http://tobiasahlin.com/spinkit/
+* Mymonero core js: https://github.com/mymonero/mymonero-core-js/
+* Cryptonote address tests: https://github.com/luigi1111/xmr.llcoins.net
+* Moneroaddress.org: https://github.com/moneromooo-monero/monero-wallet-generator/
 
 ## PGP Key:
 ```
